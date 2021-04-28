@@ -1,7 +1,14 @@
 {
+  "useExtendedLib": {
+    "weui": true
+  },
   "pages": [
     "pages/index",
-    "pages/button/button"
+    "pages/button/button",
+    "pages/input/input",
+    "pages/form/form",
+    "pages/form/form_page",
+    "pages/form/form_radio"
   ],
   "window": {
     "navigationBarTitleText": "Study Demo",
