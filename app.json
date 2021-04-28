@@ -8,7 +8,14 @@
     "pages/input/input",
     "pages/form/form",
     "pages/form/form_page",
-    "pages/form/form_radio"
+    "pages/form/form_radio",
+    "pages/form/form_input_status",
+    "pages/form/form_vcode",
+    "pages/form/form_access",
+    "pages/form/form_checkbox",
+    "pages/form/form_switch",
+    "pages/form/form_select",
+    "pages/form/form_textarea"
   ],
   "window": {
     "navigationBarTitleText": "Study Demo",
