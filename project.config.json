@@ -42,7 +42,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.16.1",
   "appid": "wx1db6849d83966ac3",
-  "projectname": "miniprogram-1",
+  "projectname": "study_demo_weui",
   "debugOptions": {
     "hidedInDevtools": []
   },

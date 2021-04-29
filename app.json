@@ -36,7 +36,19 @@
     "pages/msg/msg_custom_area_cell",
     "pages/picker/picker",
     "pages/toast/toast",
-    "pages/top-tips/top-tips"
+    "pages/top-tips/top-tips",
+    "pages/article/article",
+    "pages/badge/badge",
+    "pages/flex/flex",
+    "pages/footer/footer",
+    "pages/gallery/gallery",
+    "pages/grid/grid",
+    "pages/icons/icons",
+    "pages/loading/loading",
+    "pages/loadmore/loadmore",
+    "pages/panel/panel",
+    "pages/preview/preview",
+    "pages/progress/progress"
   ],
   "window": {
     "navigationBarTitleText": "Study Demo",
