@@ -1,0 +1,2 @@
+/* pages/half-screen-dialog/half-screen-dialog.wxss */
+.page{background-color:var(--weui-BG-2)}

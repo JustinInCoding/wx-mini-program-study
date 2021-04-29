@@ -23,7 +23,20 @@
     "pages/searchbar/searchbar",
     "pages/navigation-bar/navigation-bar",
     "pages/tabbar/tabbar",
-    "pages/actionsheet/actionsheet"
+    "pages/actionsheet/actionsheet",
+    "pages/dialog/dialog",
+    "pages/half-screen-dialog/half-screen-dialog",
+    "pages/msg/msg",
+    "pages/msg/msg_success",
+    "pages/msg/msg_warn",
+    "pages/msg/msg_text",
+    "pages/msg/msg_text_primary",
+    "pages/msg/msg_custom_area_preview",
+    "pages/msg/msg_custom_area_tips",
+    "pages/msg/msg_custom_area_cell",
+    "pages/picker/picker",
+    "pages/toast/toast",
+    "pages/top-tips/top-tips"
   ],
   "window": {
     "navigationBarTitleText": "Study Demo",

@@ -1,0 +1,2 @@
+/* pages/msg/msg_text.wxss */
+.page{height:100%;background-color:var(--weui-BG-2)}

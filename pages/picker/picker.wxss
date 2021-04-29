@@ -1,0 +1,2 @@
+/* pages/picker/picker.wxss */
+.page{background-color:var(--weui-BG-2)}picker{margin-bottom:16px}
