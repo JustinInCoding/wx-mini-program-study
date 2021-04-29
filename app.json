@@ -15,7 +15,11 @@
     "pages/form/form_checkbox",
     "pages/form/form_switch",
     "pages/form/form_select",
-    "pages/form/form_textarea"
+    "pages/form/form_textarea",
+    "pages/list/list",
+    "pages/slideview/slideview",
+    "pages/slider/slider",
+    "pages/uploader/uploader"
   ],
   "window": {
     "navigationBarTitleText": "Study Demo",
