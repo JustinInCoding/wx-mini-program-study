@@ -19,7 +19,11 @@
     "pages/list/list",
     "pages/slideview/slideview",
     "pages/slider/slider",
-    "pages/uploader/uploader"
+    "pages/uploader/uploader",
+    "pages/searchbar/searchbar",
+    "pages/navigation-bar/navigation-bar",
+    "pages/tabbar/tabbar",
+    "pages/actionsheet/actionsheet"
   ],
   "window": {
     "navigationBarTitleText": "Study Demo",
